@@ -1,5 +1,5 @@
 
-/*Q54: Write a program to print the following pattern:
+/*Q54: Write a program to print the following pattern:::
 
    *
   ***
